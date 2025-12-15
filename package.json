@@ -1,0 +1,14 @@
+{
+  "name": "tg-video-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "yt-dlp-wrap": "^1.0.0",
+    "ffmpeg-static": "^5.1.0"
+  }
+}
